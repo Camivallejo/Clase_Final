@@ -8,11 +8,8 @@ Este es el truquito para marcar el texto: `#:~:text=` en una página web.
 
 > hacer una cita de alguien muy inteligente
 
-oqsoudfoidwaqoru e
-- asdfadsfdas
-- asdfasdfdsa
-- asdfadsfads
-- asdfadsfasd
+Este codigo es
+- MD
 
 - - - - - - - - - - - - - - 
 
