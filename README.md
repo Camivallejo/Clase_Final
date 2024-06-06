@@ -1,12 +1,15 @@
 ### Clase_Final → 05/06/2023
 
+![spotify](https://github.com/Camivallejo/Clase_Final/assets/162394510/8e881973-ddba-4a7e-9486-a1e40766894c)
+342139)
+
 ##### Exploración y Análisis de Canciones Populares en Spotify
 
 - - - - - - - - - - - - - - 
 ### Tema a visualizar:
 Análisis de Canciones Populares y sus Características Musicales
 
-Visualizar y analizar las diversas características de canciones populares. Las variables involucradas en esta visualización incluyen elementos como la popularidad, danceability, energy, tempo, etc.
+Quiero lograr visualizar y analizar las diversas características de canciones populares. Las variables involucradas en esta visualización incluyen la popularidad, danceability, energy, tempo, etc. Esto permitirá no solo entender mejor las características que definen las canciones populares, sino también proporcionar información valiosa para la creación de música y la toma de decisiones en la industria musical. A través de una serie de visualizaciones detalladas y análisis profundos, espero descubrir patrones y tendencias que puedan influir en futuros desarrollos musicales
 
 - - - - - - - 
 ### Dimensiones del tema a visualizar:
@@ -16,13 +19,13 @@ Visualizar y analizar las diversas características de canciones populares. Las 
   
 3. Comparación entre Géneros: Diferencias y similitudes en las características musicales entre diferentes géneros.
  
-4. Relación entre Tonalidad y Popularidad: ¿La tonalidad de una canción afecta su popularidad?
+4. Fusión de Géneros: Analizar la popularidad de canciones que mezclan múltiples géneros o estilos musicales.
 
-5.
+5. Combinaciones de Características Exitosas: Analizar qué combinaciones de características musicales tienden a producir canciones populares.(top 10)
 
 - - - - - - - 
 #### Indicadores de cada dimensión:
-1.Número de Canciones por Artista: Distribución del número de canciones por artista.
+1. Número de Canciones por Artista: Distribución del número de canciones por artista.
   Promedio de Popularidad por Artista: Análisis de la popularidad promedio de las canciones de cada artista.
   Evolución de las Características Musicales por Artista: Cambios en las métricas musicales a lo largo del tiempo para diferentes artistas.
   
@@ -32,11 +35,16 @@ Visualizar y analizar las diversas características de canciones populares. Las 
 
 3. Género: Clasificación del género de cada canción.
    Características Musicales por Género: Comparación de danceability, energy, tempo, etc., entre géneros.
-   
-4. Frecuencia de Tonalidades por Popularidad: Dividir las canciones en grupos según su nivel de popularidad (bajo, medio y alto).
-   Promedio de Popularidad por Tonalidad
-   
+   Promedio de Popularidad por Género: Promedio de popularidad de las canciones en cada género.
 
+5. Popularidad de Canciones Fusionadas: Evaluación de la popularidad de canciones que mezclan géneros.
+   Número de Géneros por Canción: Conteo de cuántos géneros están asociados a cada canción.
+   Características Musicales de Canciones Fusionadas:Comparación de danceability, energy, tempo, etc., entre canciones de un solo género y canciones de múltiples       géneros.
+
+6. Danceability y Energy: Promedio de popularidad para canciones con diferentes combinaciones de danceability y energy.
+   Tempo y Loudness: Promedio de popularidad para canciones con diferentes combinaciones de tempo y loudness.
+   Valence y Acousticness: Promedio de popularidad para canciones con diferentes combinaciones de valence y acousticness.
+   Frecuencia de Tonalidades por Popularidad: Dividir las canciones en grupos según su nivel de popularidad (bajo, medio y alto).
 
 - - - - - - - 
 ###### [← CLASE PREVIA](https://github.com/profesorfaco/dno097-2024/tree/main/clase-13) • [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno097-2024/tree/main/clase-15)
