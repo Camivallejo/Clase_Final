@@ -1,7 +1,6 @@
 ### Clase_Final → 05/06/2023
 
 ![spotify](https://github.com/Camivallejo/Clase_Final/assets/162394510/8e881973-ddba-4a7e-9486-a1e40766894c)
-342139)
 
 ##### Exploración y Análisis de Canciones Populares en Spotify
 
