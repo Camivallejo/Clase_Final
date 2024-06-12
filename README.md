@@ -44,6 +44,9 @@ Quiero lograr visualizar y analizar las diversas características de canciones p
    Tempo y Loudness: Promedio de popularidad para canciones con diferentes combinaciones de tempo y loudness.
    Valence y Acousticness: Promedio de popularidad para canciones con diferentes combinaciones de valence y acousticness.
    Frecuencia de Tonalidades por Popularidad: Dividir las canciones en grupos según su nivel de popularidad (bajo, medio y alto).
-
+- - - - - - -
+  #### Antecedentes:
+  ! [opera] (https://www.why-expensive.com/)
+  
 - - - - - - - 
 ###### [← CLASE PREVIA](https://github.com/profesorfaco/dno097-2024/tree/main/clase-13) • [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno097-2024/tree/main/clase-15)
