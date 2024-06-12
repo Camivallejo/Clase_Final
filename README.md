@@ -46,7 +46,22 @@ Quiero lograr visualizar y analizar las diversas características de canciones p
    Frecuencia de Tonalidades por Popularidad: Dividir las canciones en grupos según su nivel de popularidad (bajo, medio y alto).
 - - - - - - -
   #### Antecedentes:
-  ! [opera] (https://www.why-expensive.com/)
+  1. https://www.why-expensive.com/
+     - Positivo:
+       
+     - Negativo:
+  2. https://onomeals.zeusjones.com/
+     - Positivo:
+     - Negativo:
+  3. https://handsome.is/
+     - Positivo:
+     - Negativo:
+  4. https://www.behance.net/gallery/75636503/Spotify-2018-Wrapped?tracking_source=search_projects|interactive+web+music+data&l=4
+     - Positivo:
+     - Negativo:
+  5. https://www.behance.net/gallery/192932503/DRRT-fm-web
+     - Positivo:
+     - Negativo:
   
 - - - - - - - 
 ###### [← CLASE PREVIA](https://github.com/profesorfaco/dno097-2024/tree/main/clase-13) • [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno097-2024/tree/main/clase-15)
