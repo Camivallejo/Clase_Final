@@ -46,13 +46,20 @@ Quiero lograr visualizar y analizar las diversas características de canciones p
    Frecuencia de Tonalidades por Popularidad: Dividir las canciones en grupos según su nivel de popularidad (bajo, medio y alto).
 - - - - - - -
   #### Antecedentes:
-| Sitio Web                                                                 | Positivo                             | Negativo                           |
-|--------------------------------------------------------------------------|--------------------------------------|------------------------------------|
-| [Why Expensive](https://www.why-expensive.com/)                          | Interacciones, narración             | Carga de la página lenta           |
-| [Pop.popin Group](https://pop.popingroup.com/)                           | Diseño atractivo, UX intuitiva       | Navegación algo confusa            |
-| [Fit Song](https://fit-song.jp/)                                          | Visualización de datos, interactividad | Puede ser abrumador para nuevos usuarios |
-| [Spotify 2018 Wrapped](https://www.behance.net/gallery/75636503/Spotify-2018-Wrapped?tracking_source=search_projects%7Cinteractive+web+music+data&l=4) | Visualización de datos, diseño moderno | Dependencia de datos precisos      |
-| [DRRT fm Web](https://www.behance.net/gallery/192932503/DRRT-fm-web)     | Diseño moderno, navegación intuitiva | Accesibilidad limitada             |
-  
+  1. [why expensive] (https://www.why-expensive.com/)
+     - Positivo: Interacciónes, narración guiada, simpleza.
+     - Negativo: Carga de la página lenta, accesibilidad visual, colores dificiles de leer, visibilidad.
+  2. [pop.popin group] (https://pop.popingroup.com/)
+     - Positivo: Diseño atractivo, UX intuitiva, diseño grafico, uso de multimedia.
+     - Negativo: falta de guía, sobrecarga de información, sigue siendo muy pagina web.
+  3. [Fit Song] (https://fit-song.jp/)
+     - Positivo: Visualización de datos, interactividad, estilo de narración, más infográfico, uso de videos.
+     - Negativo: Diseño grafico no acorde a spotify, modo de lectura incómodo.
+  4. [Spotify Wrapped] (https://www.behance.net/gallery/75636503/Spotify-2018-Wrapped?tracking_source=search_projects|interactive+web+music+data&l=4)
+     - Positivo: Coherencia gráfica, se demuestra especificamente lo que se quiere ver, datos claros, visualizaciones.
+     - Negativo: Colores diciles de leer.
+  5. [Music Map] (https://musicmap.info/)
+     - Positivo: Mapa interactivo, datos, visualización.
+     - Negativo: Dificil lectura, conexiones extrañas, confuso.
 - - - - - - - 
 ###### [← CLASE PREVIA](https://github.com/profesorfaco/dno097-2024/tree/main/clase-13) • [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno097-2024/tree/main/clase-15)
