@@ -45,20 +45,20 @@ Quiero lograr visualizar y analizar las diversas características de canciones p
    Valence y Acousticness: Promedio de popularidad para canciones con diferentes combinaciones de valence y acousticness.
    Frecuencia de Tonalidades por Popularidad: Dividir las canciones en grupos según su nivel de popularidad (bajo, medio y alto).
 - - - - - - -
-  #### Antecedentes:
-  1. [why expensive] (https://www.why-expensive.com/)
+##### Antecedentes:
+  1. [why expensive](https://www.why-expensive.com/)
      - Positivo: Interacciónes, narración guiada, simpleza.
-     - Negativo:<span style="color: red;"> Carga de la página lenta, accesibilidad visual, colores dificiles de leer, visibilidad.
-  2. [pop.popin group] (https://pop.popingroup.com/)
+     - Negativo: Carga de la página lenta, accesibilidad visual, colores dificiles de leer, visibilidad.
+  2. [pop.popin group](https://pop.popingroup.com/)
      - Positivo: Diseño atractivo, UX intuitiva, diseño grafico, uso de multimedia.
      - Negativo: falta de guía, sobrecarga de información, sigue siendo muy pagina web.
-  3. [Fit Song] (https://fit-song.jp/)
+  3. [Fit Song](https://fit-song.jp/)
      - Positivo: Visualización de datos, interactividad, estilo de narración, más infográfico, uso de videos.
      - Negativo: Diseño grafico no acorde a spotify, modo de lectura incómodo.
-  4. [Spotify Wrapped] (https://www.behance.net/gallery/75636503/Spotify-2018-Wrapped)
+  4. [Spotify Wrapped](https://www.behance.net/gallery/75636503/Spotify-2018-Wrapped)
      - Positivo: Coherencia gráfica, se demuestra especificamente lo que se quiere ver, datos claros, visualizaciones.
      - Negativo: Colores diciles de leer.
-  5. [Music Map] (https://musicmap.info/)
+  5. [Music Map](https://musicmap.info/)
      - Positivo: Mapa interactivo, datos, visualización.
      - Negativo: Dificil lectura, conexiones extrañas, confuso.
 - - - - - - - 
