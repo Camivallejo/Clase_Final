@@ -47,19 +47,19 @@ Quiero lograr visualizar y analizar las diversas características de canciones p
 - - - - - - -
 ##### Antecedentes:
   1. [why expensive](https://www.why-expensive.com/)
-     - Positivo: Interacciónes, narración guiada, simpleza.
-     - Negativo: Carga de la página lenta, accesibilidad visual, colores dificiles de leer, visibilidad.
+     - <span style="color: green;">Positivo: Interacciónes, narración guiada, simpleza.
+     - <span style="color: red;">Negativo: Carga de la página lenta, accesibilidad visual, colores dificiles de leer, visibilidad.
   2. [pop.popin group](https://pop.popingroup.com/)
-     - Positivo: Diseño atractivo, UX intuitiva, diseño grafico, uso de multimedia.
-     - Negativo: falta de guía, sobrecarga de información, sigue siendo muy pagina web.
+     - <span style="color: green;">Positivo: Diseño atractivo, UX intuitiva, diseño grafico, uso de multimedia.
+     - <span style="color: red;">Negativo: falta de guía, sobrecarga de información, sigue siendo muy pagina web.
   3. [Fit Song](https://fit-song.jp/)
-     - Positivo: Visualización de datos, interactividad, estilo de narración, más infográfico, uso de videos.
-     - Negativo: Diseño grafico no acorde a spotify, modo de lectura incómodo.
+     - <span style="color: green;">Positivo: Visualización de datos, interactividad, estilo de narración, más infográfico, uso de videos.
+     - <span style="color: red;">Negativo: Diseño grafico no acorde a spotify, modo de lectura incómodo.
   4. [Spotify Wrapped](https://www.behance.net/gallery/75636503/Spotify-2018-Wrapped)
-     - Positivo: Coherencia gráfica, se demuestra especificamente lo que se quiere ver, datos claros, visualizaciones.
-     - Negativo: Colores diciles de leer.
+     - <span style="color: green;">Positivo: Coherencia gráfica, se demuestra especificamente lo que se quiere ver, datos claros, visualizaciones.
+     - <span style="color: red;">Negativo: Colores diciles de leer.
   5. [Music Map](https://musicmap.info/)
-     - Positivo: Mapa interactivo, datos, visualización.
-     - Negativo: Dificil lectura, conexiones extrañas, confuso.
+     - <span style="color: green;">Positivo: Mapa interactivo, datos, visualización.
+     - <span style="color: red;">Negativo: Dificil lectura, conexiones extrañas, confuso.
 - - - - - - - 
 ###### [← CLASE PREVIA](https://github.com/profesorfaco/dno097-2024/tree/main/clase-13) • [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno097-2024/tree/main/clase-15)
