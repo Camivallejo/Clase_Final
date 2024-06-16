@@ -65,4 +65,8 @@ Quiero lograr visualizar y analizar las diversas características de canciones p
   7. [Music Eurovision](https://www.reuters.com/graphics/MUSIC-EUROVISION/FINAL/rlgvdyeqzpo/)
      
 - - - - - - - 
+
+###### wireframe:
+[wireframe prototipo](https://wireframe.cc/rtntWj)
+
 ###### [← CLASE PREVIA](https://github.com/profesorfaco/dno097-2024/tree/main/clase-13) • [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno097-2024/tree/main/clase-15)
